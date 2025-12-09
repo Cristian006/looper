@@ -1,5 +1,5 @@
 # Binaries
-looper
+
 *.exe
 
 # Environment files with secrets
