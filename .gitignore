@@ -1,0 +1,26 @@
+# Binaries
+looper
+*.exe
+
+# Environment files with secrets
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Test coverage
+coverage.out
+coverage.html
+
+# Vendor (if not committing deps)
+# vendor/
+
